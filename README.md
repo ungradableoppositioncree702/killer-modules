@@ -1,6 +1,6 @@
 <div align="center">
 
-![Killer Modules](header.png)
+[![Killer Modules](header.png)](https://killertools.net/killer-modules)
 
 </div>
 
